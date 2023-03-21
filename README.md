@@ -3,7 +3,7 @@
 Are you a lazy programmer that just puts "bug fix" in your git commits?
 Then this app is for YOU!
 
-iGit is an AI-powered app generates that easily generates a commit message just for you!
+iGit is an AI-powered app that easily generates a commit message just for you!
 
 ## Current Version: 0.001
 
