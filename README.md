@@ -7,6 +7,8 @@ iGit is an AI-powered app that easily generates a commit message just for you! I
 
 ## Current Version: 0.001
 
+Supported Languages for now: Typescript
+
 In this version, you must input a result from your git diff (ex: git diff HEAD).
 One file diff is already okay.
 Once you submit, the app will create a message for you to easily copy-paste to your commits!
